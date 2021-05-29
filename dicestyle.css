@@ -1,0 +1,33 @@
+*{
+margin: 0;
+padding: 0;
+background-color: grey;
+text-align: center;
+color:white;
+}
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 6rem;
+  font-weight: 100;
+  margin:20px 20px 40px 20px;
+  cursor: pointer;
+}
+h3{
+  display: inline-block;
+  margin:50px;
+  font-size: 2rem;
+}
+
+.images{
+  display: inline-block;
+  justify-content: space-between;
+  width:70%;
+}
+img{
+  margin-left:15px;
+  margin-right: 15px;
+}
+p{
+  margin-top: 40px;
+  font-size: 25px;
+}
